@@ -14,7 +14,7 @@ Generates Georgia Form G2-A PDF Files Based on Input Data File - overcoming issu
 1. Copy G2AData.csv and GenerateGeorgiaG2AFiles.js to  C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\Javascripts
 1. Open Acrobat
 1. Enable Javascript as follows in Edit/Preferences/JavaScript:
-2. ![Screenshot 2022-05-23 205009](https://user-images.githubusercontent.com/19176762/169926800-f4125bc6-fa20-402a-b7bb-2495d6af0cff.png)
+   ![Screenshot 2022-05-23 205009](https://user-images.githubusercontent.com/19176762/169926800-f4125bc6-fa20-402a-b7bb-2495d6af0cff.png)
    - Enable Acrobat Javascript
    - Enable menu items Javascript execution policies
    - Enable global object security policy
