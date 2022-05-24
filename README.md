@@ -3,7 +3,8 @@ Generates Georgia Form G2-A PDF Files Based on Input Data File - overcoming issu
 
 ## INSTRUCTIONS:
 *For Acrobat Pro Only*
-1. Copy the G2A folder to c:\Users\YourUserName\Desktop\G2A
+1. Download the zip file to your desktop - https://github.com/mmezei/ProcessGeorgiaG2-AFiles/archive/refs/heads/main.zip
+1. Uncompress the zip file 
 1. Add rows to G2AData.csv
    Strict formatting rules are required apparently. We don't attempt to do it programmatically due to possible differences in input data (SS# vs TIN, etc.)
    - PAYERS NONRESIDENTIAL NR WH: No Dashes 1234567AB
@@ -19,6 +20,6 @@ Generates Georgia Form G2-A PDF Files Based on Input Data File - overcoming issu
    - Enable global object security policy
    - Click Ok
    - Restart Acrobat
-1. Open the G2A Pdf Form (only tested on form Rev. 05/27/16) from the G2A folder on your desktop
+1. Open the G2A Pdf Form (only tested on form Rev. 05/27/16) from the folder on your desktop
 1. In Edit Menu click "Generate Georgia G2A Files"
-1. Click dialogs as appropriate and pdf's will be added to the G2A folder on your desktop
+1. Click dialogs as appropriate and pdf's will be added to the folder on your desktop
